@@ -1,0 +1,7 @@
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.csproj.AssemblyReference.cache
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.AssemblyInfoInputs.cache
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.AssemblyInfo.cs
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karyy\Desktop\appCPSinventario\Backend\obj\Debug\net9.0\Backend.MvcApplicationPartsAssemblyInfo.cache

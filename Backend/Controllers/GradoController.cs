@@ -33,7 +33,7 @@ namespace Backend.Controllers
             }
             else
             {
-                return BadRequest("Error al insertar el grado");
+                return BadRequest("Error al insertar el grado.");
             }
         }
 
@@ -43,11 +43,11 @@ namespace Backend.Controllers
             bool resultado = _repository.Modificar(grado._idGrado, grado._abreviatura, grado._grado);
             if(resultado)
             {
-                return Ok("Grado modificado");
+                return Ok("Grado modificado.");
             }
             else
             {
-                return BadRequest("Error al midificar el grado.");
+                return BadRequest("Error al modificar el grado.");
             }
         }
     }
